@@ -1,4 +1,4 @@
-## HELLO WORD!! I AM ATHA 👋
+## HELLO WOl D!! I AM ATHA 👋
 
 ![AthaBanner](img/github-header-banner.png)
 
@@ -25,3 +25,19 @@
 [![](https://komarev.com/ghpvc/?username=AthaBhadrika&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="left">play game with me</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/AthaBhadrika/AthaBhadrika/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AthaBhadrika/AthaBhadrika/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AthaBhadrika/AthaBhadrika/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AthaBhadrika/AthaBhadrika/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
