@@ -1,4 +1,6 @@
-## Hi there 👋
+## HELLO WORD!! IM ATHA 👋
+
+![AthaBanner](img/AthaBhadrika.png)
 
 <!--
 **AthaBhadrika/AthaBhadrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->- 🔭 I’m currently working on **@AthaBhadrika**
+
+- 🌱 I’m currently learning ...
+
+![word](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhyY2xpeWxta2dlZG1sc2t0bGZoam9sbm50NW9ycHB3dGxxY2xzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UAofAl6g5t1GL5nO8/giphy.gif)
