@@ -1,6 +1,6 @@
 ## HELLO WORD!! IM ATHA 👋
 
-![AthaBanner](img/AthaBhadrika.png)
+![AthaBanner](img/github-header-banner.png)
 
 <!--
 **AthaBhadrika/AthaBhadrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
